@@ -12,3 +12,4 @@ D:\Programming\Example\app\obj\Debug\net8.0\refint\app.dll
 D:\Programming\Example\app\obj\Debug\net8.0\app.pdb
 D:\Programming\Example\app\obj\Debug\net8.0\app.genruntimeconfig.cache
 D:\Programming\Example\app\obj\Debug\net8.0\ref\app.dll
+D:\Programming\Example\app\obj\Debug\net8.0\app.sourcelink.json
