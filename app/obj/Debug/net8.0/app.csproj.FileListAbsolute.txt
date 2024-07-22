@@ -1,0 +1,14 @@
+D:\Programming\Example\app\bin\Debug\net8.0\app.exe
+D:\Programming\Example\app\bin\Debug\net8.0\app.deps.json
+D:\Programming\Example\app\bin\Debug\net8.0\app.runtimeconfig.json
+D:\Programming\Example\app\bin\Debug\net8.0\app.dll
+D:\Programming\Example\app\bin\Debug\net8.0\app.pdb
+D:\Programming\Example\app\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Example\app\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+D:\Programming\Example\app\obj\Debug\net8.0\app.AssemblyInfo.cs
+D:\Programming\Example\app\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+D:\Programming\Example\app\obj\Debug\net8.0\app.dll
+D:\Programming\Example\app\obj\Debug\net8.0\refint\app.dll
+D:\Programming\Example\app\obj\Debug\net8.0\app.pdb
+D:\Programming\Example\app\obj\Debug\net8.0\app.genruntimeconfig.cache
+D:\Programming\Example\app\obj\Debug\net8.0\ref\app.dll
